@@ -1,20 +1,17 @@
 ## Hi there 👋
 
-Roadmap.sh Profile Link: (https://roadmap.sh/u/myselfsalman)
-
-RoadMap.Sh Card Link: https://roadmap.sh/card/wide/67109602791f57dd606bde73?variant=dark&roadmaps=flutter%2Cgit-github%2Candroid%2Creact
-
-<!--
-**IamSAShuvo/IamSAShuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Salman Aziz
+A Front-end Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the Synergy Solution IT Section
+- 🌱 I’m currently learning Flutter for Android and IOS, JavaScript, ReactJs, Python
+- 🔧 Love working with Flutter, ReactJs, JavaScript, HTML, CSS and TailwindCSS
+
+- 📫 How to reach me: Email [salmanazizshuvo@gmail.com], Linkedin [https://www.linkedin.com/in/iamsashuvo/] Facebook [...]
+
+
+Roadmap.sh Profile Link: (https://roadmap.sh/u/myselfsalman)
+
+RoadMap.Sh Card Link: https://roadmap.sh/card/wide/67109602791f57dd606bde73?variant=dark&roadmaps=flutter%2Cgit-github%2Candroid%2Creact
